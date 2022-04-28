@@ -1,0 +1,39 @@
+body {
+	margin: 0;
+	
+	background-color: #333C49;
+}
+
+.mid {
+	min-height: calc(100vh - 240px);
+}
+
+.box {
+	display: flex;
+	flex-direction: column;
+
+	margin: auto;
+	margin-top: 0;
+	margin-bottom: 0;
+
+	padding: 0px;
+
+	width: 50%;
+
+	background-color: #222831;
+}
+
+.title {
+	margin: 0;
+
+	text-align: center;
+
+	overflow: hidden;
+	
+	font-size: 40pt;
+	font-family: Helvetica;
+	font-weight: bold;
+
+	color: white;
+	background-color: #00ADB5;
+}

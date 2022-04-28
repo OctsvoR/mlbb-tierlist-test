@@ -1,69 +1,4 @@
-body {
-	margin: 0;
-	
-	background-color: #333C49;
-}
 
-.header {
-	background-color: #222831;
-}
-
-.navbar {
-	margin: auto;
-	
-	width: 50%;
-	overflow: hidden;
-	background-color: #222831;
-}
-
-.navbar-button {
-	padding: 20px 30px;
-
-	float: left;
-	
-	text-align: center;
-	text-decoration: none;
-	
-	font-family: Helvetica;
-	font-weight: bold;
-	color: #FFF;
-}
-
-.navbar-button:hover {
-	color: #00ADB5;
-	background-color: #181D23;
-}
-
-.mid {
-	display: flex;
-}
-
-.box {
-	margin: auto;
-	margin-top: 40px;
-	margin-bottom: 40px;
-
-	padding: 0px;
-
-	width: 50%;
-
-	background-color: #222831;
-}
-
-.title {
-	margin: 0;
-
-	text-align: center;
-
-	overflow: hidden;
-	
-	font-size: 40pt;
-	font-family: Helvetica;
-	font-weight: bold;
-
-	color: white;
-	background-color: #00ADB5;
-}
 
 .grid {
 	margin: auto;
@@ -134,10 +69,4 @@ body {
 .hero-name {
 	margin: 0;
 	text-align: center;
-}
-
-.footer {
-	height: 100px;
-
-	background-color: #222831;
 }

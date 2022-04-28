@@ -1,0 +1,31 @@
+.header {
+	background-color: #222831;
+
+	margin-bottom: 40px;
+}
+
+.navbar {
+	margin: auto;
+	
+	width: 50%;
+	overflow: hidden;
+	background-color: #222831;
+}
+
+.navbar-button {
+	padding: 20px 30px;
+
+	float: left;
+	
+	text-align: center;
+	text-decoration: none;
+	
+	font-family: Helvetica;
+	font-weight: bold;
+	color: #FFF;
+}
+
+.navbar-button:hover {
+	color: #00ADB5;
+	background-color: #181D23;
+}
